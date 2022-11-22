@@ -1,0 +1,15 @@
+{
+    "name": "wilder/autoload",
+    "autoload": {
+        "psr-4": {
+            "Wilder\\Autoload\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Violeta Doncheva",
+            "email": "violeta.doncheva90@gmail.com"
+        }
+    ],
+    "require": {}
+}
